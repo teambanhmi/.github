@@ -1,1 +1,2 @@
 jiraBaseUrl: https://help.artnet.support
+exclusionRegEx: /(dev$|develop$|master$|feature/|hotfix/|release/)/i
